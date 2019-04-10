@@ -1,3 +1,5 @@
-# books2read
+# Books2Read
+
 Some books to read
-Just a folder for collecting books.
+
+*Just a folder for collecting books.*
